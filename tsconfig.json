@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "system",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "outDir": "dist",
+    "sourceMap": true,
+    "target": "ESNext"
+  },
+  "include": ["src/**/*"],
+  "exclude": ["**/*.spec.ts"]
+}
